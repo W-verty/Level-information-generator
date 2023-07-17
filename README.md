@@ -141,7 +141,7 @@ new TLevel().createLevelFromArray(text);
   name: 'verty_startcity',
   width: 16,
   height: 16,
-  tiledef: 'tileset_level.png',
+  tiledef: '',
   map: [
     { x: 0, y: 0, tilex: 0, tiley: 0 },
     { x: 16, y: 0, tilex: 0, tiley: 0 },
